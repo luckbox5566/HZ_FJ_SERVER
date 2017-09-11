@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HZ_FJ_SERVER:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HZ_FJ_SERVER_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HZ_FJ_SERVER/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HZ_FJ_SERVER" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
