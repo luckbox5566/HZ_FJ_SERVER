@@ -7,7 +7,7 @@ import javax.persistence.Id;
 @Id     表示对应的表的主键；如果不指定主键的话则运行的时候会报错
 1. 虽然定义的字段都是小写格式的，但是映射到数据库包里包括表名和表里字段名都是大写格式的。
 2. 我们定义id为主键后，这个字段就有了primary key not null的限制。
-
+3. 博客网址http://shmilyaw-hotmail-com.iteye.com/blog/1969190
  */
 @Entity
 public class PersonInformation {
